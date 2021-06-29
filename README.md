@@ -1,2 +1,2 @@
-# v3-class22
-constraint-double pendulum
+# C22-double-pendulum
+reference code
